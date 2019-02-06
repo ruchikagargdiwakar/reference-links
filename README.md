@@ -27,3 +27,4 @@ Micoservice:
 https://microservices.io/patterns/microservices.html
 
 https://microservices.io/
+https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9
